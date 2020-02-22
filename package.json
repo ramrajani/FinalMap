@@ -1,0 +1,27 @@
+{
+  "name": "finalmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramrajani/FinalMap.git"
+  },
+  "author": "ram rajani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramrajani/FinalMap/issues"
+  },
+  "homepage": "https://github.com/ramrajani/FinalMap#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-tableparser": "^1.0.1",
+    "express": "^4.17.1",
+    "node-html-parser": "^1.2.6",
+    "scraperapi-sdk": "^1.0.3"
+  }
+}
